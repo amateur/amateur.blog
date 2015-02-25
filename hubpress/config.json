@@ -1,10 +1,12 @@
 {
   "meta": {
-    "username": "put your username here",
-    "repositoryName": "put your repository name here",
+    "username": "amateur",
+    "repositoryName": "amateur.blog",
     "branch": "gh-pages"
   },
   "theme": {
     "name": "Casper"
   }
 }
+
+
