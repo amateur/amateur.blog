@@ -1,12 +1,1 @@
-{
-  "meta": {
-    "username": "amateur",
-    "repositoryName": "amateur.blog",
-    "branch": "gh-pages"
-  },
-  "theme": {
-    "name": "uno"
-  }
-}
-
-
+{"meta":{"username":"amateur","repositoryName":"amateur.blog","branch":"gh-pages","cname":"rabchuk.com"},"site":{"url":"http://rabchuk.com"},"socialnetwork":{},"theme":{"name":"uno","url":"https://amateur.github.io/amateur.blog/themes/uno"}}
